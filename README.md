@@ -1,6 +1,6 @@
 # 🧾 Claims Settlement Optimizer
 
-A web-based tool for optimizing insurance claim settlement strategies using machine learning. Built with [Streamlit](https://streamlit.io/) and [Scikit-learn](https://scikit-learn.org/), this app allows users to input case details and get recommended settlement strategies based on historical data.
+A web-based tool for optimizing insurance claim settlement strategies using machine learning. Built with [Streamlit](https://streamlit.io/)  this app allows users to input case details and get recommended settlement strategies based on historical data.
 
 ---
 
